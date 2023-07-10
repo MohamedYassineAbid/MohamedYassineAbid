@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Yassine Abid/h1>
+<h1 align="center">Hi 👋, I'm Mohamed Yassine Abid</h1>
 <h3 align="center">There is so many problems to solve</h3>
 
 <h3 align="left">Connect with me:</h3>
