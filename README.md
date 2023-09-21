@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yassine Abid</h1>
 <h3 align="center">There is so many problems to solve</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: green;">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codewars.com/users/MohamedYassineAbid" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt="" height="80" width="150" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
