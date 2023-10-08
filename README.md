@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://www.codewars.com/users/MohamedYassineAbid" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt="" height="80" width="150" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
-<a href="" target="https://codeforces.com/profile/flexbide5"><img align="center" src="https://codeforces.com/api/user.rating?handle=flexbide5" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="" height="30" width="40" /></a>
