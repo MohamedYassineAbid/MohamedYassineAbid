@@ -29,7 +29,8 @@
 <a href="https://codeforces.com/profile/flexbide5" target="_blank">
 <img src="https://img.shields.io/badge/codeforces:  Mohamed YAssine Abid -%2300acee.svg?color=ffffff&style=for-the-badge&logo=codeforces&logoColor=black" alt=codeforces style="margin-bottom: 5px;"/>
 </a>
-<br><a href="https://www.codewars.com/users/MohamedYassineAbid" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt="" height="80" width="150" /></a>
+<br>
+<a href="https://www.codewars.com/users/MohamedYassineAbid" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt="" height="80" width="150" /></a>
 <br>
 
 <br>
