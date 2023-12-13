@@ -32,7 +32,7 @@
 </a>
 <br>
 <br>
-	<a href="https://www.codewars.com/users/MohamedYassineAbid/badges/large" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt="" style="margin-bottom: 5px;" /></a>
+	<a href="https://www.codewars.com/users/MohamedYassineAbid/badges/large" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt="" s<a href="https://www.codewars.com/users/MohamedYassineAbid/badges/large" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt="" height="40" width="100" /></a>
 
 <br>
 
