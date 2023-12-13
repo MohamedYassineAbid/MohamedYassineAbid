@@ -25,7 +25,6 @@
 <a href="https://www.linkedin.com/in/mohamed-yassine-abid-09a9a3252/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Mohamed Yassine Abid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-	<a href="https://www.codewars.com/users/MohamedYassineAbid/badges/large" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt=""  /></a>
 
 <br>
 <a href="https://codeforces.com/profile/flexbide5" target="_blank">
@@ -33,6 +32,7 @@
 </a>
 <br>
 <br>
+	<a href="https://www.codewars.com/users/MohamedYassineAbid/badges/large" target="blank"><img align="center" src="https://www.codewars.com/users/MohamedYassineAbid/badges/micro" alt=""  /></a>
 
 <br>
 
