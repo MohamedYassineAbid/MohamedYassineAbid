@@ -21,10 +21,6 @@
 <img src="https://img.shields.io/badge/codeforces:  Mohamed YAssine Abid -%2300acee.svg?color=ffffff&style=for-the-badge&logo=codeforces&logoColor=black" alt=codeforces style="margin-bottom: 5px;"/>
 </a>
 <br>
-<a href="https://www.codewars.com/users/MohamedYassineAbid" target="blank"><img src="https://www.codewars.com/users/MohamedYassineAbid/badges/large" alt="" height="40" width="400" /></a>
-
-<br>
-
 	
 </div>
 
