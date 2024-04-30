@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Yassine Abid,Data engineering student and competitive programming enthusiast</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Yassine Abid,Data engineering student and competitive programming enthusiast.</h1>
 
 
 ## <b> Let's Connect..!</b>
