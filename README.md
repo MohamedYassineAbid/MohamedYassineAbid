@@ -1,49 +1,63 @@
-<h1 align="center">Lead</h1>
-<h3 align="center">☁️ Cloud & DevOps Architect | Kubernetes, Terraform, CI/CD & Infrastructure-as-Code</h3>
+<div align="center">
 
+# Mohamed Yassine Abid
 
-## 🚀 Professional Summary
-- 👨‍💻 All of my projects are available at [https://mohamedyassineabid.github.io/](https://mohamedyassineabid.github.io/)
+**Cloud & DevOps engineer · Kubernetes, Terraform, Ansible and infrastructure as code**
 
-## 💻 Core Technologies
-<p align="left">
-<img src="https://img.shields.io/badge/Kubernetes-7aa2f7.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Docker-7aa2f7.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/AWS-7aa2f7.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Terraform-7aa2f7.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-7aa2f7.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Linux-7aa2f7.svg?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-<img src="https://img.shields.io/badge/Go-7aa2f7.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-<img src="https://img.shields.io/badge/PowerShell-7aa2f7.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/Shell%20Script-7aa2f7.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Script"/>
-<img src="https://img.shields.io/badge/C%2B%2B-7aa2f7.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/FastAPI-7aa2f7.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flask-7aa2f7.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Jenkins-7aa2f7.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/Prometheus-7aa2f7.svg?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Ansible-7aa2f7.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-<img src="https://img.shields.io/badge/Azure-7aa2f7.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-7aa2f7.svg?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/GitLab%20CI-7aa2f7.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
-<img src="https://img.shields.io/badge/Ubuntu-7aa2f7.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-7aa2f7.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Nginx-7aa2f7.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-<img src="https://img.shields.io/badge/Traefik-7aa2f7.svg?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik"/>
+I build platforms that turn infrastructure work into repeatable, reviewable runs:<br/>
+self-hosted clusters, automation pipelines and the tools teams use to run them.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedyassineabid.github.io-1f6feb?style=flat-square&logo=githubpages&logoColor=white)](https://mohamedyassineabid.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--yassine--abid-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yassine-abid/)
+[![Medium](https://img.shields.io/badge/Medium-abidmohamedyassine00-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@abidmohamedyassine00)
+[![Codeforces](https://img.shields.io/badge/Codeforces-flexbide5-1f8acb?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/flexbide5)
+
+</div>
+
+---
+
+### Building now: Kuboos
+
+**Kuboos** is a self-hosted platform for running and governing infrastructure automation. Teams run Ansible, Terraform, OpenTofu, Terragrunt and scripts from one place, and every run is logged, approved and kept away from leaked secrets.
+
+- Approval gates and separation of duties: nobody approves their own production change
+- Key Store with rotation tracking, plus HashiCorp Vault and OpenBao secret storage
+- Workflows, schedules, webhooks, a built-in Terraform state backend and remote runners
+- Dashboard, searchable task history with CSV export, and a full audit log
+- Go backend, Vue frontend, single container with Docker Compose, terminal settings screen
+
+> [!NOTE]
+> Kuboos is in private development. [Get in touch on LinkedIn](https://www.linkedin.com/in/mohamed-yassine-abid/) for a demo or early access.
+
+### Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**KubeOlive**](https://github.com/MohamedYassineAbid/KubeOlive) | Self-hosted Charmed Kubeflow MLOps platform on Proxmox VE, fully automated | Terraform · Ansible · Juju · MicroK8s · Longhorn |
+| [**K8S-Terraform-Ansible**](https://github.com/MohamedYassineAbid/K8S-Terraform-Ansible) | Shell interface that reads Terraform and Ansible variables and drives a Kubernetes cluster from creation to kubeconfig | Bash · Terraform · Ansible · Proxmox |
+| [**Hadoop-IaC**](https://github.com/MohamedYassineAbid/Hadoop-IaC) | Hadoop high-availability cluster: two NameNodes, JournalNodes, ZooKeeper failover, YARN HA and Hive | Ansible · Vagrant · Ubuntu |
+| [**Kubernetes-FAC**](https://github.com/MohamedYassineAbid/Kubernetes-FAC) | Fully automated configuration of a Kubernetes cluster and its components | Ansible · Vagrant · Jinja |
+| [**faster-whisper-stt**](https://github.com/MohamedYassineAbid/faster-whisper-stt) | Fast speech-to-text as a script and a REST API, with word timestamps | Python · FastAPI |
+| [**Blockchain-Voting**](https://github.com/MohamedYassineAbid/Blockchain-Voting) | Educational campus-election DApp: Solidity rules, React front end, MetaMask | Solidity · React |
+
+More on the [portfolio](https://mohamedyassineabid.github.io/).
+
+### Toolbox
+
+| Area | Tools |
+|---|---|
+| Containers & orchestration | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubeflow](https://img.shields.io/badge/-Kubeflow-0028AA?style=flat-square&logo=kubeflow&logoColor=white) |
+| Infrastructure as code | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![OpenTofu](https://img.shields.io/badge/-OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white) |
+| Cloud & virtualization | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
+| CI/CD | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| Observability & networking | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white) |
+| Security & secrets | ![HashiCorp Vault](https://img.shields.io/badge/-HashiCorp%20Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black) ![OpenBao](https://img.shields.io/badge/-OpenBao-4A4A55?style=flat-square) |
+| Languages & frameworks | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) |
+| OS & ML | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+
+### GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=MohamedYassineAbid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=1f6feb&icon_color=1f6feb&text_color=8b949e&cache_seconds=86400" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MohamedYassineAbid&layout=compact&hide_border=true&theme=transparent&title_color=1f6feb&text_color=8b949e&cache_seconds=86400" alt="Top languages" />
 </p>
-
-## 🌐 Professional Profiles
-<p align="left">
-<a href="https://github.com/MohamedYassineAbid" target="_blank"><img src="https://img.shields.io/badge/GitHub-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-yassine-abid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@https://medium.com/@abidmohamedyassine00" target="_blank"><img src="https://img.shields.io/badge/Medium-7aa2f7?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-</p>
-
-## 📈 GitHub Metrics
-<p align="left">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=MohamedYassineAbid&theme=tokyonight&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" /><br/><br/>
-  <img align="center" src="https://streak-stats.demolab.com/?user=MohamedYassineAbid&theme=tokyonight&hide_border=false&cache_seconds=86400" alt="Streak Stats" /><br/><br/>
-</p>
-
-<br />
-
-
